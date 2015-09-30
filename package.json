@@ -1,0 +1,24 @@
+{
+  "name": "mysql-pool",
+  "version": "1.0.0",
+  "description": "dependency felixge/mysql package mysql pool for easily use",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "glutton",
+    "mysql",
+    "mysql-pool"
+  ],
+  "author": "glutton",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "felixge/node-mysql"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixge/node-dateformat.git"
+  },
+  "readme": "ERROR: No README data found!"
+}
