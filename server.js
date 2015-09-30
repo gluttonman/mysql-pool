@@ -1,6 +1,6 @@
 /**
  * Created by Administrator on 2015/9/30.
- * ¹«ÓÃÊı¾İ¿âÁ¬½ÓÄ£¿é
+ * å…¬ç”¨æ•°æ®åº“è¿æ¥æ¨¡å—
  */
 var mysql = require("mysql");
 var fs = require("fs");
