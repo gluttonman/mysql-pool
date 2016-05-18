@@ -20,5 +20,8 @@
     "type": "git",
     "url": "git+https://github.com/gluttonman/mysql-pool"
   },
-  "readme": "ERROR: No README data found!"
+  "readme": "ERROR: No README data found!",
+  "devDependencies": {
+    "debug": "^2.2.0"
+  }
 }
