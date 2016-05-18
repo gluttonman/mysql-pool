@@ -1,8 +1,8 @@
 {
-  "name": "glutton",
-  "version": "2.0.0",
+  "name": "mysql-pool-interface",
+  "version": "0.1.0",
   "description": "dependency felixge/mysql package mysql pool for easily use",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
@@ -11,7 +11,11 @@
     "mysql",
     "mysql-pool"
   ],
-  "author": "glutton",
+  "author": {
+    "name":"glutton",
+    "email":"lijunboy00@163.com",
+    "url":""
+  },
   "license": "ISC",
   "dependencies": {
     "mysql": "felixge/node-mysql"
@@ -23,5 +27,9 @@
   "readme": "ERROR: No README data found!",
   "devDependencies": {
     "debug": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gluttonman/mysql-pool"
   }
 }
