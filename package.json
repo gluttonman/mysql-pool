@@ -1,6 +1,6 @@
 {
-  "name": "mysql-pool-interface",
-  "version": "0.1.0",
+  "name": "@fdd/mysql-pool",
+  "version": "0.1.1",
   "description": "dependency felixge/mysql package mysql pool for easily use",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gluttonman/mysql-pool"
+    "url": ""
   },
   "readme": "ERROR: No README data found!",
   "devDependencies": {
@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gluttonman/mysql-pool"
+    "url": ""
   }
 }

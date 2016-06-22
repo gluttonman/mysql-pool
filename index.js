@@ -4,7 +4,7 @@
  */
 const Pool = require("./lib/pool")
 
-exports.createPool = function () {
+exports.getInstance = function () {
     return new Pool();
 }
 
